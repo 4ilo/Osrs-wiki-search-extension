@@ -1,5 +1,5 @@
 {
-  "name": "Osrs wiki search",
+  "name": "OSRS wiki search",
   "description" : "To use, type 'osrs' plus a search term.",
   "version": "1.0",
   "background": {
